@@ -1,7 +1,6 @@
 // Question 1
 use std::io;
 
-// Question 2
 fn main() 
 {
     // User input height in cm
@@ -41,6 +40,8 @@ fn main()
     }
     ////////////////////////////////////////////////////////////
     
+    // Question 2
+
     let mut index = 1;
 
     while index <= 10
